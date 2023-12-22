@@ -5,7 +5,7 @@ Personal GitHub account.
 - [BugCrowd profile](https://bugcrowd.com/dietcoke)
 
 
-Below is a list of my public "coding" projects.
+Some of my public "coding" projects:
 - Red-Team & Malware Dev
   - [GUI for C2 network tunnels](https://github.com/M507/Tunnel-Manager)
   - [Nemo malware - IRSeC 2019](https://github.com/M507/Nemo)
