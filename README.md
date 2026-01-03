@@ -3,11 +3,12 @@ Personal GitHub account.
 - [BugCrowd profile](https://bugcrowd.com/dietcoke)
 - [Personal Blog   - Shellcode.blog](https://shellcode.blog)
 
-
 Some of my public "coding" projects:
 - Blue-Team
+  - [Blackhat 2025 presentation and codebase for AI SOC agent & MCP server](https://github.com/M507/AI-SOC-Agent)
   - [SOC Dashboard: To help optimize and standardize SOC analysis](https://github.com/M507/SOC_Tools_Dashboard)
   - [BlueDucky: Tool to create Rubber-Ducky instructions for IR](https://github.com/M507/BlueDucky)
+  - [Deployment and testing automation for Velociraptor's client artifacts](https://github.com/M507/VeloTheHelo)
 - Red-Team & Malware Dev
   - [RamiGPT: Autonomous privilege escalation](https://github.com/M507/RamiGPT)
   - [GUI for C2 network tunnels](https://github.com/M507/Tunnel-Manager)
